@@ -28,6 +28,7 @@ The primary technical challenge lies in sorting out cursive attachment and the s
 - xh, xp, xt
 - hooked ks
 - all doubled letters, which should be a single letter with a dot below instead, except for EE/EI/IE, which is its own letter
+- adjacent opposite-direction curves (`[mn][td]` and `[td][mn]`), which run together (e.g., "mt" does not go below the baseline).
 - diphthongs, which depend on the preceding and sometimes following letter for their shape
 
 ## What's Changed from Textbook Orthic
