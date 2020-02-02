@@ -2,6 +2,19 @@
 Orthic Sans is a fork of [Mozilla Fira](http://mozilla.github.io/Fira/).
 It aims to provide a font using the [Orthographic Cursive alphabet](https://jeremy-w.github.io/orthic/manual#the-cursive-alphabet) for the core English alphabet focusing on the fully-written style. (No -ing, though the hooked -ks is probably doable.)
 
+# ABANDONED
+This has been abandoned.
+
+Building atop an existing font was a bad move:
+
+- It's overwhelming for me as a novice
+- I can't really reuse a ton of its "DNA" very well, due to the peculiar needs
+  of the target script
+
+So I've abandoned this in favor of building something small and functional,
+though almost certainly uglier than what a proper type designer would come up
+with, from scratch.
+
 ## Why?
 Simply: Orthic reading practice.
 
